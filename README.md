@@ -50,25 +50,25 @@ Each PDF has a corresponding directory containing the CloudFormation templates. 
 - `code/demo1/`  
   - Templates for YAML basics.
 
-- `code/demo2/`  
+- `code/StackConcepts CodeFiles/`  
   - Templates for creating and managing CloudFormation stacks.
 
-- `code/demo3/`  
+- `code/Resources CodeFiles/`  
   - Templates showcasing resource definitions.
 
-- `code/demo4/`  
+- `code/Parameters CodeFiles/`  
   - Templates with parameters for dynamic configurations.
 
-- `code/demo5/`  
+- `code/Mappings CodeFiles/`  
   - Templates utilizing mappings.
 
-- `code/demo6/`  
+- `code/Conditions CodeFiles/`  
   - Templates with conditional logic.
 
-- `code/demo7/`  
+- `code/Outputs CodeFiles/`  
   - Templates defining outputs.
 
-- `code/demo8/`  
+- `code/EC2 UserData CodeFiles/`  
   - Templates for EC2 user data.
 
 ## 🛠️ Getting Started
