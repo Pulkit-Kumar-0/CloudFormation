@@ -83,7 +83,10 @@ Navigate to the desired folder and explore the PDFs 📄 and code files 💻.
 Follow the instructions in the PDFs to understand and implement the CloudFormation templates.
 
 ✅ Prerequisites
-AWS CLI installed and configured: AWS CLI Installation Guide
-Basic knowledge of AWS services and YAML.
+
+1. AWS CLI installed and configured: AWS CLI Installation Guide
+2. Basic knowledge of AWS services and YAML.
+
 🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests to enhance this repository. ✨
+
+^_~ Contributions are welcome! Feel free to open issues or submit pull requests to enhance this repository. ✨
